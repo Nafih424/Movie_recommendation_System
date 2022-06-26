@@ -1,5 +1,5 @@
 # Movie_recommendation_System
-![](images/preview1.png)
+
 
 ## Description
 
